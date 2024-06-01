@@ -1,0 +1,201 @@
+body {
+    background-color: black;
+    height: 800px;
+}
+
+h1 {
+    color: rgb(5, 5, 5);
+    margin-top: 0%;
+    
+}
+
+
+.botonesBarra{
+    width: 100px;
+    height: 45px;
+}
+
+.cabezera {
+    margin-left: 37%;
+    background-color: aliceblue;
+    height: 30px;
+    width: 20%;
+    text-align: center;
+
+}
+
+.bNavegacion {
+    margin-top: 3%;
+    margin-left: 30%;
+    position: fixed;
+    height: 45px;
+    width: 33%;
+    background-color: red;
+    display: flex;
+    text-align: center;
+
+
+
+}
+
+.divNav {
+    margin-left: 20px;
+
+    height: 45px;
+    top: 0%;
+    margin-top: 0%;
+}
+
+.divNav:hover {
+    background-color: orange;
+
+}
+
+.infoInicio {
+    margin-top: 30px;
+    margin-left: 20px;
+    height: 500px;
+    width: 1450px;
+    background-color: white;
+
+}
+
+.h1i {
+    color: black;
+}
+
+
+.poductos {
+    margin-top: 30px;
+    margin-left: 20px;
+    height: 500px;
+    width: 1450px;
+    background-color: white;
+    display: flex;
+    
+    
+}
+
+
+.hijoProducto {
+
+    margin: 20px;
+    height: 180px;
+    width: 120px;
+    background-color: pink;
+    text-align: center;
+    background-position: center;
+}
+
+
+.accesorios {
+    
+   margin-top: 30px;
+   margin-left: 20px;
+    height: 500px;
+    width: 1450px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    background-position: center;
+}
+
+
+.hijoAccesorios {
+
+    margin: 20px;
+    height: 180px;
+    width: 120px;
+    background-color: orange;
+    text-align: center;
+    background-position: center;
+}
+
+.contacto {
+    margin-top: 30px;
+    margin-left: 20px;
+    height: 500px;
+    width: 1450px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+.ventanita{
+    
+    margin-top: 60px;
+   margin-left: 20px;
+    height: 500px;
+    width: 1450px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+
+
+
+#Contenedor1 {
+    
+    margin-top: 30px;
+    margin-left: 20px;
+     height: 210px;
+     width: 150px;
+     background-color: red;
+   display: flex;
+   flex-wrap: wrap;
+   
+     background-position: center;
+}
+
+
+.Contenedor2{
+    margin: 10px;
+     height: 175px;
+     width: 130px;
+     background-color: orange;
+     display: flex;
+     flex-wrap: wrap;
+   
+     background-position: center;
+}
+
+.h1boton {
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 150px;
+    text-align: center;
+    font-size: small;
+   };
+
+
+.botoness{
+  margin-top: 0px;
+  height: 20px;
+  width: 20px;
+};
+
+.botonnn{
+    font-size: 60px;
+    height: 30px;
+    width: 40px;
+};
+
+
+#nub{
+    background-color: aliceblue;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
